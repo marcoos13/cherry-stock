@@ -148,7 +148,7 @@ a:focus {
 
 .navbar .navbar-brand {
     margin: 0;
-    font-size: 45px;
+    font-size: 39px;
     line-height: 0px;
     font-weight: 700;
     letter-spacing: 2px;
@@ -206,7 +206,7 @@ a:focus {
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color: #111111;
+        color: #fff;
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
